@@ -32,7 +32,7 @@ The process was pretty arduous but once I got it down it went pretty quickly.
 * Save the image as something like "Community Chest - <card text>.xcf". You know have the project saved.
 * Export the image as a PNG: File > Export As... Change the extension to png and GIMP will know what to do.
 * I set the compression level to 0 for the highest quality. Click Export to save the file.
-* To convert your PNG to an SVG file requires to steps.
+* To convert your PNG to an SVG file requires two steps.
   * Convert your PNG to a PNM file: convert source.png dest.pnm
   * Convert your PNM to an SVG file: potrace source.png dest.svg
 * To convert your SVG to a very high quality PNG use ImageMagick's convert utility: convert -background none -depth 1 -units PixelsPerInch -density 1200 source.svg dest.png
