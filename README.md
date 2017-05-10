@@ -33,3 +33,4 @@ The process was pretty arduous but once I got it down it went pretty quickly.
 * Export the image as a PNG: File > Export As... Change the extension to png and GIMP will know what to do.
 * I set the compression level to 0 for the highest quality. Click Export to save the file.
 * I used an external site to convert each PNG to an SVG file. The site is http://image.online-convert.com/convert-to-svg. For each image I configured the image to be Monochrome and set the DPI to 1200. That seemed to work well. Once the SVG image is saved you can convert it to a massive PNG file without loss of quality.
+* To convert your SVG to a very high quality PNG use ImageMagick's convert utility: convert -background none -depth 1 -units PixelsPerInch -density 1200 source.svg dest.png

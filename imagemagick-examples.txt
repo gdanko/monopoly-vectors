@@ -1,0 +1,2 @@
+# Create a 1200 DPI, 1-bit color transparent PNG from an existing SVG
+convert -background none -depth 1 -units PixelsPerInch -density 1200 source.svg dest.png
