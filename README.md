@@ -1,6 +1,6 @@
 # Monopoly Vectors
 ---
-I wanted to make a custom Monopoly Community Chest card for my wife, but I could not find a usable source for the Community Chest/Chance graphics. Most were very small and pixelated. Plus, they were 72 DPI so print versions would look pretty bad.
+I wanted to make a custom Monopoly Community Chest card, but I could not find a usable source for the Community Chest/Chance graphics. Most were very small and pixelated. Plus, they were 72 DPI so print versions would look pretty bad.
 
 I have created for everyone a set of Monopoly Community Chest and Chance vector (SVG) images created from GIMP.
 
